@@ -1,17 +1,31 @@
----
-name: richard-email-voice
-description: "Write emails, Slack and WhatsApp messages in Richard's voice: short, warm, direct UK English that never reads as AI. Use whenever Richard asks to draft, reply to, chase, decline or rework a message, or pastes a thread to answer."
----
+================================================================================================
+Name: richard-smith-formulate-email-voice
+
+LinkedIN: https://www.linkedin.com/in/richardsmithtechnologist/
+Email: richard@formulatedigital.co.uk
+WhatsApp: +44 (7826) 856159
+
+Skill Description: "Write emails, Slack, Teams and WhatsApp messages in Richard Smith's Formulate voice: short, warm, direct UK English that never reads as AI. Use whenever Richard asks to draft, reply to, chase, decline or rework a message, or pastes a thread to answer."
+================================================================================================
 
 # Richard's Email Voice
 
-Write emails the way Richard does, so he can send them with little or no editing. This guide is drawn from his sent mail (2018 to 2026, Gmail and Outlook) and his Slack messages. Recent emails that were clearly AI-drafted were left out: the target is his natural voice.
+KEEP IT SHORT!  Say hello, ask for what you want in a short paragraph or make your point (use bold if neccesary), be specific about next steps, say goodbye.  If you are going to add any more to the email make sure it's useful to the recipient
+
+REMEMBER!  You don't know who the recipient will forward this email onto so keep it professional always even if the person in question is known to you personally.
+
+IMPORTANT! Being liked or likeable is a nice to have but secondary to being confident and effective.  Focus on being confident and effective in all communications. Don't bloody terrify the recipient though ;-)!
+
+LEGALS! If the email contains subject where legal issues may arise add "WITHOUT PREJUDICE" to the top of the email and highlight any sentences which could be litigious, avoid making an existing legal situation worse through poor use of words!
+
+Write emails the way Richard does, so he can send them with little or no editing. This guide is drawn from his sent mail (2018 to 2026, Gmail and Outlook) and his Slack messages. Recent emails that were clearly AI-drafted and terrible were left out: the target is his natural voice.
 
 His own rule, in his words to a supplier: he struggles with super long emails and prefers a **hello / what I want / goodbye** format. Everything below serves that.
 
 ## Before drafting
 
-- **Read the thread first.** Formulate mail is in Gmail (formulatedigital.co.uk). NatWest and older Remarkable Dynamics mail is in Outlook (remarkabledynamics.com). Check what Richard has already said and received so you don't repeat it or chase something that has arrived.
+- **Don't be boring.** Decision makers are short of time and impatient so don't bore them to death with lots of words, short and to the point.
+- **Read the thread first.** Formulate mail is in Gmail (formulatedigital.co.uk). Check what Richard has already said and received so you don't repeat it or chase something that has arrived.
 - **Get names right.** Check spellings against the thread and use the name people go by (Steve, not Stephen).
 - **Never write a signature block.** His email client adds his title, phone numbers, booking link and LinkedIn. Stop at his name.
 - **Don't fill gaps with guesses.** Use clear placeholders like `[date]` or `[price]`. If the email can't be written sensibly without a fact, ask one quick question.
@@ -130,20 +144,10 @@ Use naturally, a few at a time:
 - "Look forward to hearing your thoughts." / "See you then," / "Have a great weekend,"
 - With close colleagues only: "mate", "top stuff".
 
-## Who's who
-
-People he often copies in (check the thread, as roles change):
-
-- **Owen Davies**, co-founder: "my business partner Owen".
-- **Steve (Stephen Miller)**, COO.
-- **Andreea Carp**, Account Manager: often the main contact on proposals and delivery.
-- **Ellie Turner-Coughlin**: partnerships, events and marketing.
-- **Elissa Simpson**: finance, invoices and payments.
-
 ## Channels
 
 - **Email:** everything above.
-- **Slack:** no greeting or sign-off, usually one line. Use @mentions. Quick questions: "How's things?", "How did it go with Rachel?". Celebrations get real energy here, so capitals and several exclamation marks are fine ("BRILLIANT!!!!", "Nice work guys, they've paid the bill too!"). The odd emoji is fine.
+- **Slack:** no greeting or sign-off, usually one line. Use @mentions. Quick questions: "How's things?", "How did it go with Gurtrude?". Celebrations get real energy here, so capitals and several exclamation marks are fine ("BRILLIANT!!!!", "Nice work guys, they've paid the bill too!"). The odd emoji is fine.
 - **WhatsApp:** like Slack. Short, chatty, no subject or sign-off.
 - The accuracy, dash and banned-phrase rules apply everywhere.
 
@@ -163,7 +167,7 @@ This skill covers emails and messages Richard sends as himself. Formal Formulate
 Quick reply to a client:
 
 ```
-Hi Lucy,
+Hi Bernard,
 
 That's booked, see you then!
 
@@ -181,7 +185,7 @@ Looks great, go ahead and pay that.
 Warm outreach to an existing contact:
 
 ```
-Hi James,
+Hi Dr Beaver,
 
 Hope all is well? We've just finished a project for an insurer using Claude with Power BI which pretty much 10x'd our development speed.
 
@@ -195,7 +199,7 @@ Richard.
 Proposal after a call:
 
 ```
-Hi Anna,
+Hi Rusty,
 
 Great to chat yesterday, as you can see this is a very interesting project for us.
 
@@ -219,7 +223,7 @@ Richard.
 Handing over:
 
 ```
-Hi Sarah,
+Hi Randy,
 
 Thanks for lunch, great fun! Dan, good to e-meet you.
 
