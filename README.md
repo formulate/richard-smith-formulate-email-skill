@@ -85,7 +85,7 @@ Then just ask:
 
 ## About Richard
 
-Richard Smith is CEO and Co-Founder of [Formulate Digital](https://formulatedigital.co.uk), an engineering-led consultancy in Guildford, Surrey, focused on legacy modernisation, AI implementation and digital transformation for regulated industries (FinTech, InsurTech and the public sector).
+Richard Smith is CEO and Co-Founder of [Formulate](https://formulatedigital.co.uk), an engineering-led consultancy in Guildford, Surrey, focused on legacy modernisation, AI implementation and digital transformation for regulated industries (FinTech, InsurTech and the public sector).
 
 Want to chat? He'd rather you just [grabbed a time](https://calendar.google.com/calendar/u/0/appointments/AcZssZ3uaIQUMWyLYmUKRGzUFDKVvACvatd79GIFTKM=).
 
