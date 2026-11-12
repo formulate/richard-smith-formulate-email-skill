@@ -42,7 +42,7 @@ About half his emails are 35 words or fewer. If it works as one line, it's one l
 4. `Would love to buy you a coffee.`
 5. UK English, £4,995+VAT, 1.30pm, Tuesday 17th August 2027
 6. A firm email that still signs off `All the best,`
-7. **WITHOUT PREJUDICE** at the top when things get legal
+7. **WITHOUT PREJUDICE** at the top when settling a dispute
 
 ## Installation
 
