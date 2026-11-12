@@ -6,13 +6,13 @@
 
 A Claude skill that writes emails, Slack, Teams and WhatsApp messages the way Richard Smith (CEO and Co-Founder of Formulate & Loxa Cover) actually writes them. So he can hit send with little or no editing.
 
-> He struggles with super long emails and prefers a **hello / what I want / goodbye** format.
+> He doesn't do long emails and prefers a **hello / what I want / goodbye** format.
 
 ## What it does
 
 Ask Claude to draft, reply to, chase, decline or rework a message, or paste in a thread to answer, and you get something that sounds like Richard talking across a table. Not like a LinkedIn thought leader who has just discovered the word "leverage".
 
-The voice is built from Richard's real sent mail (Gmail and Outlook, 2018 to 2026) and his Slack messages. Emails that were obviously AI-drafted were thrown out, because the goal is Richard, not AI pretending to be Richard pretending to be Claude.
+The voice is modelled on how Richard actually writes: eight years of his own emails and Slack messages. Anything that reads as AI-drafted was left out, because the goal is Richard, not Claude doing an impression of Richard.
 
 ## The Richard method
 
@@ -31,7 +31,7 @@ About half his emails are 35 words or fewer. If it works as one line, it's one l
 5. Em dashes or en dashes, the surest sign a robot has been in the building
 6. Delve, leverage, holistic, landscape, realm, testament, pivotal, elevate, unlock
 7. Emojis in email
-8. More than one exclamation mark. They're rationed: one per email, for genuinely good news only.
+8. More than one exclamation mark. They're rationed: one per email, for genuinely good news only or a good idea.
 9. A signature block (his email client already does that)
 
 ## Things it will happily write
@@ -40,13 +40,31 @@ About half his emails are 35 words or fewer. If it works as one line, it's one l
 2. `Idea! We could...`
 3. `I've copied in Ellie who will be in touch.`
 4. `Would love to buy you a coffee.`
-5. UK English, £4,995+VAT, 1.30pm, Tuesday 17th 2027
+5. UK English, £4,995+VAT, 1.30pm, Tuesday 17th August 2027
 6. A firm email that still signs off `All the best,`
 7. **WITHOUT PREJUDICE** at the top when things get legal
 
 ## Installation
 
-Add this repo (or just `SKILL.md`) as a custom skill in Claude, or drop the folder into your skills directory for Claude Code or Cowork. Then just ask:
+**Claude (web, desktop or mobile)**
+
+1. Download the skill folder (on GitHub: click the green **Code** button, then **Download ZIP**).
+2. Unzip it and rename the folder to match the skill's name in SKILL.md.
+3. Zip the folder again.
+4. In Claude, go to **Customize > Skills**, click **+**, then **Create skill > Upload a skill**, and upload the ZIP.
+5. Make sure the skill is switched on.
+
+**ChatGPT (Business, Enterprise and Edu plans)**
+
+1. Download and zip the skill folder as above.
+2. In ChatGPT, go to **Plugins > Skills > Create > Upload from your computer**.
+3. If you use ChatGPT on desktop and web, add it on each.
+
+**Microsoft 365 Copilot**
+
+If your organisation has skills enabled in Agent Builder, create a new agent and upload the ZIP as a skill. Availability varies by licence, so check with your IT team.
+
+Then just ask:
 
 > Reply to this thread and tell them we can start on the 25th.
 
@@ -69,7 +87,7 @@ Add this repo (or just `SKILL.md`) as a custom skill in Claude, or drop the fold
 
 Richard Smith is CEO and Co-Founder of [Formulate Digital](https://formulatedigital.co.uk), an engineering-led consultancy in Guildford, Surrey, focused on legacy modernisation, AI implementation and digital transformation for regulated industries (FinTech, InsurTech and the public sector).
 
-Want to chat? He'd rather you just grabbed a time.
+Want to chat? He'd rather you just [grabbed a time](https://calendar.google.com/calendar/u/0/appointments/AcZssZ3uaIQUMWyLYmUKRGzUFDKVvACvatd79GIFTKM=).
 
 - **LinkedIn:** [linkedin.com/in/richardsmithtechnologist](https://www.linkedin.com/in/richardsmithtechnologist/)
 - **Email:** [richard@formulatedigital.co.uk](mailto:richard@formulatedigital.co.uk)
