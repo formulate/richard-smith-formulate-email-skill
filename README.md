@@ -1,1 +1,77 @@
-# richards-email-skill
+# Richard Smith's Email Voice
+
+A Claude skill that writes emails, Slack, Teams and WhatsApp messages the way Richard Smith (CEO and Co-Founder of Formulate & Loxa Cover) actually writes them. So he can hit send with little or no editing.
+
+> He struggles with super long emails and prefers a **hello / what I want / goodbye** format.
+
+## What it does
+
+Ask Claude to draft, reply to, chase, decline or rework a message, or paste in a thread to answer, and you get something that sounds like Richard talking across a table. Not like a LinkedIn thought leader who has just discovered the word "leverage".
+
+The voice is built from Richard's real sent mail (Gmail and Outlook, 2018 to 2026) and his Slack messages. Emails that were obviously AI-drafted were thrown out, because the goal is Richard, not AI pretending to be Richard pretending to be Claude.
+
+## The Richard method
+
+1. **Hello.** `Hi Steve,` (Not Stephen. Never Stephen.)
+2. **What I want.** Lead with the ask, one or two sentences per paragraph. Propose an actual time ("How about 11am Friday?") rather than the dreaded "when suits you?".
+3. **Goodbye.** `Thanks` on one line, `Richard.` on the next. Yes, with a full stop.
+
+About half his emails are 35 words or fewer. If it works as one line, it's one line.
+
+## Things this skill will never write
+
+1. "Kind regards", "Best regards", "Warm regards" or any other regards. None of the sampled emails used them. None.
+2. "No rush". If Richard needs it, he needs it.
+3. "Just circling back to touch base on my note below"
+4. "I hope this email finds you well"
+5. Em dashes or en dashes, the surest sign a robot has been in the building
+6. Delve, leverage, holistic, landscape, realm, testament, pivotal, elevate, unlock
+7. Emojis in email
+8. More than one exclamation mark. They're rationed: one per email, for genuinely good news only.
+9. A signature block (his email client already does that)
+
+## Things it will happily write
+
+1. `Hope all is well?` (question mark included, that's how he writes it)
+2. `Idea! We could...`
+3. `I've copied in Ellie who will be in touch.`
+4. `Would love to buy you a coffee.`
+5. UK English, £4,995+VAT, 1.30pm, Tuesday 17th 2027
+6. A firm email that still signs off `All the best,`
+7. **WITHOUT PREJUDICE** at the top when things get legal
+
+## Installation
+
+Add this repo (or just `SKILL.md`) as a custom skill in Claude, or drop the folder into your skills directory for Claude Code or Cowork. Then just ask:
+
+> Reply to this thread and tell them we can start on the 25th.
+
+## Example prompts
+
+1. "Draft a chaser to Dan about the proposal"
+2. "Decline this, politely, door open"
+3. "Write a firm email about the unpaid invoices"
+4. "Turn this into a Slack message for the team"
+
+## What's in the repo
+
+| File | What it is |
+|---|---|
+| `SKILL.md` | The skill: voice rules, structure, examples and a quick reference table |
+| `README.md` | This. Already longer than Richard would like. |
+| `LICENSE` | The legal bit |
+
+## About Richard
+
+Richard Smith is CEO and Co-Founder of [Formulate Digital](https://formulatedigital.co.uk), an engineering-led consultancy in Guildford, Surrey, focused on legacy modernisation, AI implementation and digital transformation for regulated industries (FinTech, InsurTech and the public sector).
+
+Want to chat? He'd rather you just grabbed a time.
+
+- **LinkedIn:** [linkedin.com/in/richardsmithtechnologist](https://www.linkedin.com/in/richardsmithtechnologist/)
+- **Email:** [richard@formulatedigital.co.uk](mailto:richard@formulatedigital.co.uk)
+- **WhatsApp:** +44 7826 856159
+- **Web:** [formulatedigital.co.uk](https://formulatedigital.co.uk)
+
+Thanks
+
+Richard.
