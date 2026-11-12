@@ -5,7 +5,7 @@ description: Write emails and Slack, Teams or WhatsApp messages in Richard Smith
 
 # Richard's Email Voice
 
-Write emails the way Richard does, so he can send them with little or no editing. This guide is drawn from his sent mail (2018 to 2026, Gmail and Outlook) and his Slack messages. Recent emails that were clearly AI-drafted were left out, as the target is his natural voice.
+Write emails the way Richard does, so he can send them with little or no editing. This guide is modelled on how Richard actually writes: eight years of his own emails and Slack messages. Anything that read as AI-drafted was left out, as the target is his natural voice.
 
 His own rule, in his words to a supplier: he struggles with super long emails and prefers a **hello / what I want / goodbye** format. Everything below serves that.
 
@@ -14,7 +14,7 @@ His own rule, in his words to a supplier: he struggles with super long emails an
 - **Keep it short.** Decision makers are short of time and impatient, so don't bore them with lots of words. Say hello, make your point or ask for what you want in a short paragraph (use bold if necessary), be specific about next steps, then say goodbye. Only add more if it's useful to the recipient.
 - **Assume it will be forwarded.** You don't know who the recipient will forward it to, so always keep it professional, even if Richard knows them personally.
 - **Confident and effective beats likeable.** Being liked is a nice-to-have, but secondary. Focus on being confident and effective in every message, without intimidating the recipient.
-- **Take care with anything legal.** If an email touches on a subject where legal issues may arise, add "WITHOUT PREJUDICE" at the top, highlight any sentences that could be litigious, and avoid wording that could make an existing legal situation worse.
+- **Take care with anything legal.** If an email is a genuine attempt to settle an existing dispute, add "WITHOUT PREJUDICE" at the top. For anything else with legal risk, flag the risky sentences to Richard before he sends, and avoid wording that could make an existing legal situation worse.
 
 ## Before drafting
 
@@ -92,7 +92,7 @@ Richard.
 
 ## Chasing, declining and firm moments
 
-- **Chasing.** Short and friendly, adding something new rather than recapping: "Hope all is well, let me know if you'd still like to chat. I could also show you how we're using Claude to automate a lot of complex tasks." Don't write "circle back", "touch base" or "just following up on my note below".
+- **Chasing.** Short and friendly, adding something new rather than recapping: "Hope all is well? let me know if you'd still like to chat. I could also show you how we're using Claude to automate a lot of complex tasks." Don't write "circle back", "touch base" or "just following up on my note below".
 - **Overdue money or commitments.** Plain and direct: "I notice the payment promised below hasn't happened, could you give me an urgent update on that?"
 - **Never "no rush".** When Richard needs something, the ask keeps its urgency.
 - **Declining.** Short and plain, no long explanation, door open where that's genuine: "Thanks for your help, we'll pause this now and look at alternatives." "We don't do direct debits but invoices will be paid promptly." "When you have a deck and a working app, do send it over and we'll chat again."
@@ -110,7 +110,7 @@ He doesn't recap. "As discussed" or "Following our meeting" is enough. Don't exp
 
 ## Exclamation marks, emphasis and emojis
 
-- About one in five of his emails has an exclamation mark, almost always just one, on real good news or thanks ("Excellent news!", "Great chat!", "Have a great weekend!"). Keep it to one per email. None in firm, formal or bad-news emails, and never to soften a request.
+- About one in five of his emails has an exclamation mark, almost always just one, on real good news or thanks, or to flag an idea ("Excellent news!", "Great chat!", "Have a great weekend!"). Keep it to one per email. None in firm, formal or bad-news emails, and never to soften a request.
 - He occasionally capitalises one word for emphasis in internal notes ("there is a LOT"). Rarely, and never with clients.
 - No emojis in email.
 - An ellipsis to lead into a list, link or forward is his habit. One per email at most.
@@ -140,7 +140,7 @@ Use naturally, a few at a time:
 ## Channels
 
 - **Email:** everything above.
-- **Slack:** no greeting or sign-off, usually one line. Use @mentions. Quick questions: "How's things?", "How did it go with Gurtrude?". Celebrations get real energy here, so capitals and several exclamation marks are fine ("BRILLIANT!!!!", "Nice work guys, they've paid the bill too!"). The odd emoji is fine.
+- **Slack and Teams:** no greeting or sign-off, usually one line. Use @mentions. Quick questions: "How's things?", "How did it go with Gurtrude?". Celebrations get real energy here, so capitals and several exclamation marks are fine ("BRILLIANT!!!!", "Nice work guys, they've paid the bill too!"). The odd emoji is fine.
 - **WhatsApp:** like Slack. Short, chatty, no subject or sign-off.
 - The accuracy, dash and banned-phrase rules apply everywhere.
 
