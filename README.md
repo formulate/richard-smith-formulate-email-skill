@@ -31,7 +31,7 @@ About half his emails are 35 words or fewer. If it works as one line, it's one l
 5. Em dashes or en dashes, the surest sign a robot has been in the building
 6. Delve, leverage, holistic, landscape, realm, testament, pivotal, elevate, unlock
 7. Emojis in email
-8. More than one exclamation mark. They're rationed: one per email, for genuinely good news only or a good idea.
+8. More than one exclamation mark. They're rationed: one per email, for genuinely good news or a good idea.
 9. A signature block (his email client already does that)
 
 ## Things it will happily write
