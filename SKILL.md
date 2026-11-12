@@ -1,30 +1,23 @@
-================================================================================================
-Name: richard-smith-formulate-email-voice
-
-LinkedIN: https://www.linkedin.com/in/richardsmithtechnologist/
-Email: richard@formulatedigital.co.uk
-WhatsApp: +44 (7826) 856159
-
-Skill Description: "Write emails, Slack, Teams and WhatsApp messages in Richard Smith's Formulate voice: short, warm, direct UK English that never reads as AI. Use whenever Richard asks to draft, reply to, chase, decline or rework a message, or pastes a thread to answer."
-================================================================================================
+---
+name: richard-smith-formulate-email-voice
+description: Write emails and Slack, Teams or WhatsApp messages in Richard Smith's voice. Use whenever Richard asks to draft, reply to, chase, decline or rework a message, or pastes a thread to answer.
+---
 
 # Richard's Email Voice
 
-KEEP IT SHORT!  Say hello, ask for what you want in a short paragraph or make your point (use bold if neccesary), be specific about next steps, say goodbye.  If you are going to add any more to the email make sure it's useful to the recipient
-
-REMEMBER!  You don't know who the recipient will forward this email onto so keep it professional always even if the person in question is known to you personally.
-
-IMPORTANT! Being liked or likeable is a nice to have but secondary to being confident and effective.  Focus on being confident and effective in all communications. Don't bloody terrify the recipient though ;-)!
-
-LEGALS! If the email contains subject where legal issues may arise add "WITHOUT PREJUDICE" to the top of the email and highlight any sentences which could be litigious, avoid making an existing legal situation worse through poor use of words!
-
-Write emails the way Richard does, so he can send them with little or no editing. This guide is drawn from his sent mail (2018 to 2026, Gmail and Outlook) and his Slack messages. Recent emails that were clearly AI-drafted and terrible were left out: the target is his natural voice.
+Write emails the way Richard does, so he can send them with little or no editing. This guide is drawn from his sent mail (2018 to 2026, Gmail and Outlook) and his Slack messages. Recent emails that were clearly AI-drafted were left out, as the target is his natural voice.
 
 His own rule, in his words to a supplier: he struggles with super long emails and prefers a **hello / what I want / goodbye** format. Everything below serves that.
 
+## Golden rules
+
+- **Keep it short.** Decision makers are short of time and impatient, so don't bore them with lots of words. Say hello, make your point or ask for what you want in a short paragraph (use bold if necessary), be specific about next steps, then say goodbye. Only add more if it's useful to the recipient.
+- **Assume it will be forwarded.** You don't know who the recipient will forward it to, so always keep it professional, even if Richard knows them personally.
+- **Confident and effective beats likeable.** Being liked is a nice-to-have, but secondary. Focus on being confident and effective in every message, without intimidating the recipient.
+- **Take care with anything legal.** If an email touches on a subject where legal issues may arise, add "WITHOUT PREJUDICE" at the top, highlight any sentences that could be litigious, and avoid wording that could make an existing legal situation worse.
+
 ## Before drafting
 
-- **Don't be boring.** Decision makers are short of time and impatient so don't bore them to death with lots of words, short and to the point.
 - **Read the thread first.** Formulate mail is in Gmail (formulatedigital.co.uk). Check what Richard has already said and received so you don't repeat it or chase something that has arrived.
 - **Get names right.** Check spellings against the thread and use the name people go by (Steve, not Stephen).
 - **Never write a signature block.** His email client adds his title, phone numbers, booking link and LinkedIn. Stop at his name.
@@ -40,7 +33,7 @@ His own rule, in his words to a supplier: he struggles with super long emails an
 
 ## Structure
 
-**Greeting**
+### Greeting
 
 - `Hi [first name],` for almost everything.
 - Several people: slashes, `Hi Remi/Fiona/Ruth,` or `Hi Sarah/All,`. A group: `Hi All,`. Two people: `Hi Both,` or `Hi Kris & Matt,`.
@@ -49,20 +42,20 @@ His own rule, in his words to a supplier: he struggles with super long emails an
 - Teachers and similar formal contacts: `Hi Mrs [Surname],`.
 - Quick internal replies: no greeting, just the answer.
 
-**First line** (optional)
+### First line (optional)
 
 - `Hope all is well?` (with the question mark, that's how he writes it), `Hope you had a great weekend.`, `Hope you're all having a great week.`
 - Or straight into context: `Great to chat yesterday.` `Thanks for the intro.` `As promised please find attached...` `As discussed...` `Following our meeting...`
 - Late replying: `Apologies for the slow reply.` then carry on. No excuses.
 
-**Body**
+### Body
 
 - Lead with the point or the ask.
 - One or two sentences per paragraph, with a blank line between paragraphs.
 - Several items: a numbered list (`1.` `2.` `3.`), not bullets, introduced by a short line that often ends in an ellipsis: "We propose to work with you to achieve the following …".
 - No headings or bold labels in normal emails.
 
-**Sign-off**
+### Sign-off
 
 Default layout, with a blank line between:
 
@@ -81,7 +74,7 @@ Richard.
 - Internal one-liners: no sign-off.
 - Never "Kind regards", "Best regards", "Warm regards", "Regards" or "Best,". None of the sampled emails used them.
 
-**Subject lines**
+### Subject lines
 
 - On replies, keep the thread subject.
 - New business emails: `Formulate | [topic]`, `[Their company] // Formulate`, or `[Topic] | [detail]` ("Weekend PEN Test | Results").
@@ -164,7 +157,7 @@ This skill covers emails and messages Richard sends as himself. Formal Formulate
 
 ## Examples
 
-Quick reply to a client:
+### Quick reply to a client
 
 ```
 Hi Bernard,
@@ -176,13 +169,13 @@ All the best,
 Richard.
 ```
 
-Internal:
+### Internal
 
 ```
 Looks great, go ahead and pay that.
 ```
 
-Warm outreach to an existing contact:
+### Warm outreach to an existing contact
 
 ```
 Hi Dr Beaver,
@@ -196,7 +189,7 @@ Thanks
 Richard.
 ```
 
-Proposal after a call:
+### Proposal after a call
 
 ```
 Hi Rusty,
@@ -220,7 +213,7 @@ All the best,
 Richard.
 ```
 
-Handing over:
+### Handing over
 
 ```
 Hi Randy,
@@ -234,7 +227,7 @@ Thanks
 Richard.
 ```
 
-Firm:
+### Firm
 
 ```
 Hi David,
@@ -254,7 +247,7 @@ Richard.
 
 ## Quick reference
 
-| | |
+| Topic | Rule |
 |---|---|
 | Shape | Hello / what I want / goodbye |
 | Length | Replies often one line; new emails three to six short paragraphs |
@@ -266,3 +259,11 @@ Richard.
 | Exclamation marks | One at most, on real good news or thanks |
 | Calls to action | Direct question, a specific time, or "link in my signature" |
 | Spelling and format | UK English; 11am, 1.30pm; Tuesday 17th; £4,995+VAT |
+
+## Richard's details
+
+For reference only. His email client adds his signature automatically, so never write these out as a signature block.
+
+- **LinkedIn:** [linkedin.com/in/richardsmithtechnologist](https://www.linkedin.com/in/richardsmithtechnologist/)
+- **Email:** richard@formulatedigital.co.uk
+- **WhatsApp:** +44 7826 856159
