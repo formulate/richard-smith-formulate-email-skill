@@ -1,4 +1,8 @@
+<img width="1024" height="256" alt="Formulate banner" src="https://github.com/user-attachments/assets/b9d48ef2-a08d-44ce-8b93-0f242b0538c9" />
+
 # Richard Smith's Email Voice
+
+<img width="160" align="right" height="160" alt="Richard Smith" src="https://github.com/user-attachments/assets/f050d69a-3da3-46b1-83f4-b6da46e70fbe" />
 
 A Claude skill that writes emails, Slack, Teams and WhatsApp messages the way Richard Smith (CEO and Co-Founder of Formulate & Loxa Cover) actually writes them. So he can hit send with little or no editing.
 
