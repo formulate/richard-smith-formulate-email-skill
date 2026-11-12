@@ -36,7 +36,7 @@ His own rule, in his words to a supplier: he struggles with super long emails an
 ### Greeting
 
 - `Hi [first name],` for almost everything.
-- Several people: slashes, `Hi Remi/Fiona/Ruth,` or `Hi Sarah/All,`. A group: `Hi All,`. Two people: `Hi Both,` or `Hi Kris & Matt,`.
+- Several people: slashes, `Hi Percy/Fiona/Bernard,` or `Hi Sarah/All,`. A group: `Hi All,`. Two people: `Hi Both,` or `Hi Chris & Randy,`.
 - `Morning [name],` is fine for an early email to someone he knows.
 - A shared inbox (info@, bookings@): `Hi,` with no name.
 - Teachers and similar formal contacts: `Hi Mrs [Surname],`.
