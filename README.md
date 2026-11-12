@@ -16,7 +16,7 @@ The voice is modelled on how Richard actually writes: eight years of his own ema
 
 ## The Richard method
 
-1. **Hello.** `Hi Steve,` (Not Stephen. Never Stephen.)
+1. **Hello.** `Hi Steve,` 
 2. **What I want.** Lead with the ask, one or two sentences per paragraph. Propose an actual time ("How about 11am Friday?") rather than the dreaded "when suits you?".
 3. **Goodbye.** `Thanks` on one line, `Richard.` on the next. Yes, with a full stop.
 
