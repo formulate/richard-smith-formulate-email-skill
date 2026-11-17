@@ -46,23 +46,18 @@ About half his emails are 35 words or fewer. If it works as one line, it's one l
 
 ## Installation
 
-**Claude (web, desktop or mobile)**
+**Claude**
 
-1. Download the skill folder (on GitHub: click the green **Code** button, then **Download ZIP**).
-2. Unzip it and rename the folder to match the skill's name in SKILL.md.
-3. Zip the folder again.
-4. In Claude, go to **Customize > Skills**, click **+**, then **Create skill > Upload a skill**, and upload the ZIP.
-5. Make sure the skill is switched on.
+1. Download the ZIP (on GitHub: click the green **Code** button, then **Download ZIP**).
+2. In Claude, go to **Customize > Skills**, click **+**, then **Create skill > Upload a skill**, and upload the ZIP.
 
 **ChatGPT (Business, Enterprise and Edu plans)**
 
-1. Download and zip the skill folder as above.
-2. In ChatGPT, go to **Plugins > Skills > Create > Upload from your computer**.
-3. If you use ChatGPT on desktop and web, add it on each.
+Go to **Plugins > Skills > Create > Upload from your computer** and upload the ZIP.
 
-**Microsoft 365 Copilot**
+**Any other AI assistant**
 
-If your organisation has skills enabled in Agent Builder, create a new agent and upload the ZIP as a skill. Availability varies by licence, so check with your IT team.
+Upload SKILL.md, or paste its contents into wherever your assistant keeps standing instructions (a ChatGPT Project or custom GPT, a Gemini Gem, a Copilot agent). Then ask for an email as normal.
 
 Then just ask:
 
