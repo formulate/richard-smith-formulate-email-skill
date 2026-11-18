@@ -12,7 +12,7 @@ A Claude skill that writes emails, Slack, Teams and WhatsApp messages the way Ri
 
 Ask Claude to draft, reply to, chase, decline or rework a message, or paste in a thread to answer, and you get something that sounds like Richard talking across a table. Not like a LinkedIn thought leader who has just discovered the word "leverage".
 
-The voice is modelled on how Richard actually writes: eight years of his own emails and Slack messages. Anything that reads as AI-drafted was left out, because the goal is Richard, not Claude doing an impression of Richard.
+The voice is modelled on how Richard actually writes: examples of his own emails and Slack messages. Anything that reads as AI-drafted was left out, because the goal is Richard, not Claude doing an impression of Richard.
 
 ## The Richard method
 
