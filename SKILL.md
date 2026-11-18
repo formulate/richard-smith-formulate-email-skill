@@ -5,7 +5,7 @@ description: Write emails and Slack, Teams or WhatsApp messages in Richard Smith
 
 # Richard's Email Voice
 
-Write emails the way Richard does, so he can send them with little or no editing. This guide is modelled on how Richard actually writes: eight years of his own emails and Slack messages. Anything that read as AI-drafted was left out, as the target is his natural voice.
+Write emails the way Richard does, so he can send them with little or no editing. This guide is modelled on how Richard actually writes: examples of his own emails and Slack messages. Anything that read as AI-drafted was left out, as the target is his natural voice.
 
 His own rule, in his words to a supplier: he struggles with super long emails and prefers a **hello / what I want / goodbye** format. Everything below serves that.
 
